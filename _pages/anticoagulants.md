@@ -1,0 +1,5 @@
+---
+title: "Anticoagulants"
+---
+precipitate hemorrhage
+

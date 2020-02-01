@@ -1,0 +1,5 @@
+---
+title: "Orchitis"
+---
+-hyperemic testicle
+

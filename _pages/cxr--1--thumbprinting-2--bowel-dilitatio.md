@@ -1,0 +1,5 @@
+---
+title: "CXR: 1) thumbprinting 2) bowel dilitation (&quot;picket fence&quot; small bowel w/ interspace &quot;spikes&quot;) 3) portal venous air(perripheral as veins flow out, pneumobilia centrally as ducts converge centrally) 4) pneumatosis (curvilinear) 5) pneumoperitoneum 6) BE: &quot;urticaraia&quot; = reticular mucosa CT: 1) &quot;target&quot; (hyperdense submucsa =hemorrhage) 2) mucosal ulceration 3) bowel wall edema, mesenteric stranding, 4) clot or engorgment vessels, 5) no wall enhancement 6) ascites Cz: 1) decreased perfusion 2) thrombus/ embolus Sx: most episodes in elderly resolve (healed w/ strictures) Comp: infection, perforation, ilius / obstruction (non-peristalsis) PNEUMATOSIS CYSTOIDES INTESTINALIS: &quot;grapelike&quot; air filled spaces (mimic: polyps / filling defects on barium) Benign pneumatosis (often in colon): 1) IBD, 2) scleroderma, 3) CF, 4) steroids, 5) pulm disease, 6) surgery (case: s/p resection rectal condyloma) 7)marrow transplant, often have differentiate clinically from ischemia SMALL BOWEL EDEMA: diffuse wall thickening from fluid (renal, liver, cardiac failure), hypoproteinemia"
+---
+BOWEL ISCHEMIA
+

@@ -15,3 +15,5 @@ The economic system of large financial institutions-banks, stock exchanges, inve
 
 Economic policy or system designed to make a profit for the home country
 
+Economic system based on economic freedom, private ownership, and competition
+

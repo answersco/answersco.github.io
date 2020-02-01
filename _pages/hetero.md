@@ -1,0 +1,5 @@
+---
+title: "Hetero-"
+---
+other, different
+

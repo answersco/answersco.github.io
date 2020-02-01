@@ -7,3 +7,5 @@ A theory or system of social organization based on the holding of all property i
 
 An economic system in which the state controls the means of production. Established by Karl Marx and Frederick Engels; Communist Manifesto
 
+System in which the government owns and operates all productive resources and determines all significant economic choices
+

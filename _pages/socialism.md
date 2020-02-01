@@ -11,3 +11,5 @@ Socialists advocated government protection of workers from exploitation by prope
 
 Robert Owens, a key figure in this economic theory, believed profit motive should not be the primary shaper of society; rather, he said he could create a community in which workers were paid what they were worth and shared, rather than competed, in all areas of life. (Redistribution of wealth and balance between individual and state control of the economy)
 
+This lies between capitalism and communism. System characterized by public ownership and operation of key industries combined with private ownership and operation of less vital industries.
+

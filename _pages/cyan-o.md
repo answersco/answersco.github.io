@@ -1,0 +1,5 @@
+---
+title: "Cyan/o"
+---
+blue
+

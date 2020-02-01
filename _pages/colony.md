@@ -5,3 +5,7 @@ When one state controls another state for the full benefit of the host country. 
 
 Country governed internally by a foreign power; strictest form of Imperialism.
 
+-billions of cells of a particular microbe
+-in a circular patch
+-turns liquid cloudy when growth happens
+

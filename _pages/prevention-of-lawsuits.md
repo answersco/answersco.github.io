@@ -1,0 +1,21 @@
+---
+title: "Prevention of lawsuits"
+---
+-Maintain good medical records.
+-Establish good relationships with clients.
+-Keep nursing skills current.
+-Assess the client frequently for changes.
+-Maintain professional manner.
+-Avoid making statements that may admit fault.
+-Don't criticize other professionals.
+-Stay within your scope of practice.
+-Be definite about instructions.
+-Take extra precautions with telephone orders.
+-Monitor the care of those you supervise.
+-Check the condition of health-care equipment you are using
+-If in doubt, stop!
+-Watch for adverse outcomes (medications, treatments, etc.).
+-If you suspect a lawsuit, notify your insurance carrier immediately.
+-Never tell a patient you have malpractice insurance.
+-If a suit is filed, don't talk to anyone but your lawyer.
+

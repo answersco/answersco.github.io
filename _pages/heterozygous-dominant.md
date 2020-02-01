@@ -1,0 +1,5 @@
+---
+title: "Heterozygous dominant"
+---
+Dd
+

@@ -1,0 +1,6 @@
+---
+title: "Nonobstructive atelectasis may be further subdivided into:"
+---
+- Relaxation or passive atelectasis results when a pleural effusion or a pneumothorax eliminates contact between the parietal and visceral pleurae.
+- Compression atelectasis occurs from any space-occupying lesion of the thorax compressing the lung and forcing air out of the alveoli. The mechanism is similar to relaxation atelectasis.
+

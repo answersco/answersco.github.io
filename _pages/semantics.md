@@ -1,0 +1,5 @@
+---
+title: "Semantics"
+---
+word meaning
+

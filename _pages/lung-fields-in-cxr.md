@@ -1,0 +1,5 @@
+---
+title: "Lung fields in CXR"
+---
+Lastly, review the lungs and be sure to comment on their size. This might indicate how well a patient can expand their chest, which in turn can be affected by the severity of the illness or how expansile the lung tissues are. A good inspiratory effort should allow at least six anterior ribs (or nine posterior ribs if the anterior ribs are difficult to see) to be evident crossing the mid-clavicular line and the diaphragm. Poor inspiration can result in increased opacification and can be mistaken for consolidation or collapse. Follow the borders of the pleura and the extent to which lung markings are evident towards the peripheries. Ordinarily, lung markings stop just short of the edge of the chest wall by about 1 cm. Lung markings that go all the way to the edge can suggest interstitial disease, and markings that stop abruptly with a definite margin separate to that of the rib cage could suggest a pneumothorax, especially if a pleural edge is evident.
+

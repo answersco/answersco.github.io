@@ -1,0 +1,5 @@
+---
+title: "Single"
+---
+no arrangement
+

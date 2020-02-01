@@ -7,3 +7,5 @@ The manufacture of many identical products by the division of labor into many sm
 
 The manufacture of many identical products by the division of labor into many small simple tasks.
 
+Production of uniform products in large quantities
+

@@ -1,0 +1,5 @@
+---
+title: "-gram"
+---
+written, recorded
+

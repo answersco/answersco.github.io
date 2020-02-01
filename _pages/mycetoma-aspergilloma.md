@@ -1,0 +1,5 @@
+---
+title: "Mycetoma/aspergilloma"
+---
+Dx?
+

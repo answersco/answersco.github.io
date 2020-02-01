@@ -1,0 +1,5 @@
+---
+title: "Sz: 1) focal or diffuse enlargement 2) focal or diffuse decrease in density 3) blurred margins 4) stranding 5) thickening retroperitoneal fascia Cz: etoh (75% chronic panc), GB stones, drugs, PUD, hyperlipidemia, post ERCP Comp: 1) necrosis (nonenhancement), 2) hemorrhage, 3) pseudocyst, 4) abscess 5) biliary obstruction 6) mesenteric vein thrombosis 7) PSA of splenic, GDA, or superior pancreatico-duodenal branches of GDA) CHRONIC PANCREATITIS: 1) &quot;chain of lakes&quot; irregular duct dilitation w/ strictures &amp; prominant side branches 2) Ca+ 3) stones in duct 4) long tapered narrowing of CBD 5) fibrosis &amp; atrophy, Cz: ETOH, gallstones, pan divisum PSEUDOCYST: can occur anywhere, small resolve, large unlikley, Ix for drainage: pain &gt; 6 wks &amp; superinfection, obstruction bile duct or bowel Tx: typically require several months of drainage. usually percutaneously, ddx: pseudoaneurysm (thrombosed) ABSCESS: 1) thicker walls vs pseudocyst 2) gas containing, rely on clinical sx"
+---
+PANCREATITIS
+

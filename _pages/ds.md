@@ -1,0 +1,5 @@
+---
+title: "DS"
+---
+double strength
+

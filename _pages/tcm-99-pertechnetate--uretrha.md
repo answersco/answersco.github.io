@@ -1,0 +1,5 @@
+---
+title: "TCM-99 PERTECHNETATE (URETRHA)"
+---
+CYSTOGRAM
+

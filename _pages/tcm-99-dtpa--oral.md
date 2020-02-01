@@ -1,0 +1,5 @@
+---
+title: "TCM-99 DTPA (ORAL)"
+---
+LIQUID GASTRIC EMPTYING
+
