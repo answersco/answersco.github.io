@@ -1,0 +1,7 @@
+---
+title: "Oceania"
+---
+Region
+
+a large group of islands in the south Pacific including Melanesia and Micronesia and Polynesia (and sometimes Australasia and the Malay Archipelago)
+
