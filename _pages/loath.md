@@ -1,0 +1,5 @@
+---
+title: "Loath"
+---
+strongly opposed
+

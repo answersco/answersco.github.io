@@ -1,0 +1,5 @@
+---
+title: "Stricture"
+---
+severe criticism
+
