@@ -1,5 +1,0 @@
----
-title: "Whole Body Imaging:"
----
-...
-

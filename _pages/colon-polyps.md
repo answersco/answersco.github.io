@@ -1,5 +1,0 @@
----
-title: "Colon polyps"
----
-...
-

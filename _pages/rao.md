@@ -1,5 +1,0 @@
----
-title: "RAO"
----
-Innominate Artery
-

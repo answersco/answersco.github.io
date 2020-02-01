@@ -1,5 +1,0 @@
----
-title: "TCM-99 MAG3"
----
-RENAL BLOOD FLOW AND FUNCTION
-

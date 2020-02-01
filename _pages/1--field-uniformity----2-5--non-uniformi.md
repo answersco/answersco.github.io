@@ -1,5 +1,0 @@
----
-title: "1. Field uniformity  - 2-5% non-uniformity is acceptable (1% for SPECT)  - Extrinsic Flood test with the collimator( <b>Use Co-57</b>) -<b>Daily</b>  -Intrinsic Flood test WITHOUT collimator:  -<b>Weekly</b>. -Ability of the gamma camera to properly locate and position an interaction event.  -2-3 mm range  --------------------------- 2. Linearity and Spatial resolution: <b>Weekly</b>  -Test: Lead bar phantom: make sure they are straight no curves -Spatial Resolution Limit: Low energy collimator you should be able to resolve the second narrowest bar quadrant (but not the most narrow one)  ------------------------------ 3. Energy Window: <b>Daily</b>  -------------------- 5. Center of Rotation: <b>Weekly</b>  -Gamma camera heads level.  -5 test point source of Tc99  ---------------------  6. Alignment of the Detector: -<b>Annual</b> -Energy windows should coincide with each other.  -No more than +/- 2 mm variation in placement of the energy window   -------------- 7. Dead time: -<b>Yearly</b> - 20% dead time is acceptable  -----------------  8. Sensitivity:  -<b>Quarterly</b> -&gt;200 cpm/uCi is acceptable"
----
-Gamma camera QA/QC?
-

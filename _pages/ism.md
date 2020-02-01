@@ -1,5 +1,0 @@
----
-title: "-ism"
----
-condition
-

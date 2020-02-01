@@ -1,5 +1,0 @@
----
-title: "Squam/o"
----
-scales
-

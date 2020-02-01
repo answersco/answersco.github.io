@@ -1,5 +1,0 @@
----
-title: "Crani/o"
----
-skull
-

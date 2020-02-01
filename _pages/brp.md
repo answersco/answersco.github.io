@@ -1,5 +1,0 @@
----
-title: "BRP"
----
-bathroom privileges
-

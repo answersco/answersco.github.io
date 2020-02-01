@@ -1,5 +1,0 @@
----
-title: "Monotrichous"
----
-one flagellum
-

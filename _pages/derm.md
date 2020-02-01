@@ -1,5 +1,0 @@
----
-title: "Derm"
----
-skin
-

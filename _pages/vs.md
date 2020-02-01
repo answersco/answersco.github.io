@@ -1,5 +1,0 @@
----
-title: "VS"
----
-vital signs
-

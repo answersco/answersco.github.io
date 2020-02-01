@@ -1,5 +1,0 @@
----
-title: "TCM-99 DMSA"
----
-RENAL CORTICAL SCANNING
-

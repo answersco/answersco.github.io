@@ -1,5 +1,0 @@
----
-title: "Necr/o"
----
-death
-

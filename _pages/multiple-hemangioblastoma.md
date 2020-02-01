@@ -1,5 +1,0 @@
----
-title: "Multiple hemangioblastoma"
----
-VHL
-

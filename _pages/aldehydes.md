@@ -1,5 +1,0 @@
----
-title: "Aldehydes"
----
-R-CHO
-

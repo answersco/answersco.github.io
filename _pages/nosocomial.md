@@ -1,5 +1,0 @@
----
-title: "Nosocomial"
----
-Gram neg
-

@@ -1,5 +1,0 @@
----
-title: "Spirochete"
----
-spring-like
-

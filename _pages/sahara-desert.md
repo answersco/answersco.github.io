@@ -1,5 +1,0 @@
----
-title: "Sahara Desert"
----
-Desert
-

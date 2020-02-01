@@ -1,5 +1,0 @@
----
-title: "Middle East"
----
-Region
-

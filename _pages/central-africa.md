@@ -1,5 +1,0 @@
----
-title: "Central Africa"
----
-Region
-

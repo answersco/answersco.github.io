@@ -1,5 +1,0 @@
----
-title: "UIP pattern"
----
-Dx?
-

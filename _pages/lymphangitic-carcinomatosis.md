@@ -1,5 +1,0 @@
----
-title: "Lymphangitic carcinomatosis"
----
-...
-

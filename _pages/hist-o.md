@@ -1,5 +1,0 @@
----
-title: "Hist/o"
----
-tissue
-

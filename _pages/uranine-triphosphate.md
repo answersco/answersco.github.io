@@ -1,5 +1,0 @@
----
-title: "Uranine triphosphate"
----
-UTP
-

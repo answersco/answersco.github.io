@@ -1,5 +1,0 @@
----
-title: "Homo-, homeo-"
----
-same
-

@@ -1,5 +1,0 @@
----
-title: "CARDIAC CT: 1) Ix: asymptomatic pts w/ intermediate coronary heart disease risk (10-20% 10-year risk of coronary event per Framingham Risk) 2) prospective ECG gating to minimize radiation (for both CTA &amp; Ca+ scoring) NONCALCIFIED ATHEROSCLEROTIC PLAQUES: 1) luminal irregularity 2) abnormal low to intermediate soft tissue depending on lipid, fibrosis, and thrombus composition (plaque progresses, artery initially enlarges, maintaining normal lumen - positive remodeling w/ lesion larger than suspected from angiogram) CALCIFIED PLAQUE: 1) Ca+ generally a marker of stability 2) normal Ca+ score ass w/ low risk for CV event (doesn't exclude) Info: as the) CORONARY BRANCHES: LAD: septal &amp; diagonals, CIRCUMFLEX: obtuse marginals, RCA: conus, SA nodal, muscluar LAD STENOSIS: LAD best seen 45 deg LAO view, Tx: angioplasty (possible stenting), Ix: stable / unstable angina, MI, previous CABG, ContraIx: abscence of angina or ischemia, unprotected LM CAD CABG: LIMA-LAD, Aorta-Saphenous-LAD"
----
-ACUTE CORONARY SYNDROME
-

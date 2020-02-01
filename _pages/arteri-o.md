@@ -1,5 +1,0 @@
----
-title: "Arteri/o"
----
-artery
-

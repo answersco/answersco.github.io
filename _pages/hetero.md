@@ -1,5 +1,0 @@
----
-title: "Hetero-"
----
-other, different
-

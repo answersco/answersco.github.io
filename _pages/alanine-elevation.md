@@ -1,5 +1,0 @@
----
-title: "Alanine elevation"
----
-MENINGIOMA
-

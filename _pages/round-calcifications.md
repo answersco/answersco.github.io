@@ -1,5 +1,0 @@
----
-title: "Round calcifications?"
----
-Benign.
-

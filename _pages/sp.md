@@ -1,5 +1,0 @@
----
-title: "Sp"
----
-spirit
-

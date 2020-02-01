@@ -1,5 +1,0 @@
----
-title: "Bulging fissure"
----
-Klebsiella
-

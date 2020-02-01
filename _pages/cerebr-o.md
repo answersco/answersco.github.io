@@ -1,5 +1,0 @@
----
-title: "Cerebr/o"
----
-brain
-

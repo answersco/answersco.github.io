@@ -1,5 +1,0 @@
----
-title: "Hemorrhagic putamen"
----
-methanol
-

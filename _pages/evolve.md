@@ -1,5 +1,0 @@
----
-title: "Evolve"
----
-develop gradually
-

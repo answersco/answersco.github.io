@@ -1,5 +1,0 @@
----
-title: "BP"
----
-blood pressure
-

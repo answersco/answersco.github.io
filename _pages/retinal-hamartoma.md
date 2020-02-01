@@ -1,5 +1,0 @@
----
-title: "Retinal hamartoma"
----
-TS
-

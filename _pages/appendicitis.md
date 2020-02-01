@@ -1,7 +1,0 @@
----
-title: "Appendicitis"
----
-...
-
-CT scanning
-

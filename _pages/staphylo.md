@@ -1,5 +1,0 @@
----
-title: "Staphylo"
----
-irregular clusters
-

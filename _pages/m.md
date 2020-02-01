@@ -1,5 +1,0 @@
----
-title: "M"
----
-Costophrenic angle
-

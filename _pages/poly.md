@@ -1,5 +1,0 @@
----
-title: "Poly-"
----
-many, excessive
-

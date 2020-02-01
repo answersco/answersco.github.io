@@ -1,5 +1,0 @@
----
-title: "East Asia"
----
-Region
-

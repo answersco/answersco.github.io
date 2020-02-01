@@ -1,5 +1,0 @@
----
-title: "Pseud/o-"
----
-false
-

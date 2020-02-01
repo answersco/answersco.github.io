@@ -1,5 +1,0 @@
----
-title: "Soviets"
----
-socialists, USSR
-

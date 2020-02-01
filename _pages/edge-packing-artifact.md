@@ -1,5 +1,0 @@
----
-title: "Edge Packing Artifact"
----
-...
-

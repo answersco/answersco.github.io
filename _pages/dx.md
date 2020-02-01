@@ -1,5 +1,0 @@
----
-title: "Dx"
----
-diagnosis
-

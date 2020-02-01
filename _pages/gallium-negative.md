@@ -1,5 +1,0 @@
----
-title: "Gallium negative"
----
-Kaposi
-

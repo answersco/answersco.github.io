@@ -1,5 +1,0 @@
----
-title: "Tissue vibration"
----
-Artifact?
-

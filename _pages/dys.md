@@ -1,5 +1,0 @@
----
-title: "Dys-"
----
-abnormal, difficult
-

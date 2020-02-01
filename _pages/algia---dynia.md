@@ -1,5 +1,0 @@
----
-title: "-algia, -dynia"
----
-pain
-

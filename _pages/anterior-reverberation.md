@@ -1,5 +1,0 @@
----
-title: "Anterior reverberation"
----
-artifact?
-

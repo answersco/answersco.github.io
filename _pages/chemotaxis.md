@@ -1,5 +1,0 @@
----
-title: "Chemotaxis"
----
-chemical attraction
-

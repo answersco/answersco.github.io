@@ -1,5 +1,0 @@
----
-title: "Vas/o"
----
-vessel
-

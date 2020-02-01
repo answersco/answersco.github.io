@@ -1,5 +1,0 @@
----
-title: "Prim/i-"
----
-first
-

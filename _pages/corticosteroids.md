@@ -1,5 +1,0 @@
----
-title: "Corticosteroids"
----
-conserve energy
-

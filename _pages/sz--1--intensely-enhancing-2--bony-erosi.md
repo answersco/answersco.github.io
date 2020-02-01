@@ -1,5 +1,0 @@
----
-title: "Sz: 1) intensely enhancing 2) bony erosion if large 3) &quot;salt &amp; pepper&quot; T1: Intermediate w/ hemorrhage or slow flow (salt) &amp; flow voids (pepper); T2: Bright w/ flow voids 4) blush on angio CAROTID BODY TUMOR: 1) splays int / ext carotid arteries 2) MR: &quot;salt &amp; pepper&quot; 3) DDx: schwannoma/ neurofibroma (flow voids &amp; blush differentiate) GLOMUS JUGULARE: 1) arise jugular fossa 2) pulsitile tinnitus 3) MR: &quot;salt &amp; pepper&quot; 4) DDx: schwannoma, meningioma, mets GLOMUS VAGALE: 1) nasopharyngeal carotid space, displace ICA anteromedially 2) &quot;salt &amp; peppe&quot; less classic GLOMUS TYMPANICUM: 1) arise middle ear near cochlear promontory 2) pulsitile tinnitus 3) abut (or mildly erode) tympanic membrane, 4) enhancing: too small for &quot;salt &amp; pepper) 4) need axial to see if bone btw carotid &amp; ext auditory canal is intact  Ass: pheochromocytoma Tx: excision or radiation Info: don't give contrast w/ known glomus tumor w/o alpha adrenergic blockage (HTN crisis)"
----
-PARAGANGLIOMA
-

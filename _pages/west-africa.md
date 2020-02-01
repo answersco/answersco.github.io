@@ -1,5 +1,0 @@
----
-title: "West Africa"
----
-Region
-

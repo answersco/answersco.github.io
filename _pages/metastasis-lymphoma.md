@@ -1,5 +1,0 @@
----
-title: "Metastasis Lymphoma"
----
-...
-

@@ -1,5 +1,0 @@
----
-title: "Caveat"
----
-a warning
-

@@ -1,5 +1,0 @@
----
-title: "UGI"
----
-upper GI
-

@@ -1,5 +1,0 @@
----
-title: "Diffuse Liver dz"
----
-...
-

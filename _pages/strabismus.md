@@ -1,5 +1,0 @@
----
-title: "Strabismus"
----
-cross-eyed
-

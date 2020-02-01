@@ -1,5 +1,0 @@
----
-title: "Parry romberg"
----
-...
-

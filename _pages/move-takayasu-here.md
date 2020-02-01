@@ -1,5 +1,0 @@
----
-title: "Move Takayasu here"
----
-...
-

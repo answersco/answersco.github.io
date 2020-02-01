@@ -1,5 +1,0 @@
----
-title: "Niger River"
----
-River
-

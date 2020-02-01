@@ -1,5 +1,0 @@
----
-title: "Hepat/o"
----
-liver
-

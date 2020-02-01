@@ -1,5 +1,0 @@
----
-title: "Silicone adenopathy"
----
-...
-

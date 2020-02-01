@@ -1,5 +1,0 @@
----
-title: "Vascular"
----
-varices
-

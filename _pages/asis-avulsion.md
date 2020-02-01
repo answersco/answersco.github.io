@@ -1,5 +1,0 @@
----
-title: "ASIS avulsion"
----
-Sartorius
-

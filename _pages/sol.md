@@ -1,5 +1,0 @@
----
-title: "Sol"
----
-solution
-

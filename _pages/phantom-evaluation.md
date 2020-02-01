@@ -1,5 +1,0 @@
----
-title: "Phantom evaluation"
----
-weekly
-

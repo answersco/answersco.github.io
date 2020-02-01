@@ -1,5 +1,0 @@
----
-title: "Adipocytes"
----
-store triglycerides
-

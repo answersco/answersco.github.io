@@ -1,5 +1,0 @@
----
-title: "Enumeration"
----
-counting
-

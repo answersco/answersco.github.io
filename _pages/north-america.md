@@ -1,5 +1,0 @@
----
-title: "North America"
----
-Region
-

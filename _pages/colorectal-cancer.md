@@ -1,5 +1,0 @@
----
-title: "Colorectal cancer"
----
-colonscopy
-

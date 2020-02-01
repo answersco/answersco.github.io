@@ -1,5 +1,0 @@
----
-title: "Ganges River"
----
-River
-

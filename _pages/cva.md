@@ -1,5 +1,0 @@
----
-title: "CVA"
----
-cerebrovascular accident
-

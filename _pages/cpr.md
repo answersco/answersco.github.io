@@ -1,5 +1,0 @@
----
-title: "CPR"
----
-cardiopulmonary resuscitation
-

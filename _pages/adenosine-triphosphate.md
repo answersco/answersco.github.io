@@ -1,5 +1,0 @@
----
-title: "Adenosine triphosphate"
----
-ATP
-

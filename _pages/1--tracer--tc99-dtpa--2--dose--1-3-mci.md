@@ -1,5 +1,0 @@
----
-title: "1. Tracer: Tc99 DTPA  2. Dose: 1-3 mCi  3. Procedure: inject the radiopharmaceutical into the shunt reservoir or tubing under strict antiseptic condition  4. Distal shunt patency: tracer is seen in the abdomen or in the Right Atrium within minutes of shunt injection  5. If the distal limb of the shunt is manually occluded during injection of the reservoir some refluc of the radiopharmaceutical may be found in the ventricular system  6. This will tell you if the procimal limb of the shunt is patent and allow you to see how fast the ventricles are then cleared of the radiolabeled CSF.  7. Failure to see reflux into the ventricular system or failure of the radiopharmaceutical to clear from the ventricles after several hours is indicative of partial proximal lumb obstruction  8. Partial or complete distal lumb obstruction can be inferred from delayed clearance of the injected radiopharmaceutical from the shunt reservoir.  9. The ROI is placed over the shunt reservoir and a time activity curve is generated to give you the clearnce half time (should normally be less than 10 minutes)"
----
-Distal CSF shunt patency
-

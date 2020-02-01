@@ -1,5 +1,0 @@
----
-title: "Phonology"
----
-speech sounds
-

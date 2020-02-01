@@ -1,5 +1,0 @@
----
-title: "Platyspondyly"
----
-thanatophoric
-

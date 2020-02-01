@@ -1,5 +1,0 @@
----
-title: "PE"
----
-physical examination
-

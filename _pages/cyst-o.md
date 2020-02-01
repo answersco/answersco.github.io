@@ -1,5 +1,0 @@
----
-title: "Cyst/o"
----
-bladder
-

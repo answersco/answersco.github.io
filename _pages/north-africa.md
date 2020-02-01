@@ -1,5 +1,0 @@
----
-title: "North Africa"
----
-Region
-

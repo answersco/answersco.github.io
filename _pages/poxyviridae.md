@@ -1,5 +1,0 @@
----
-title: "Poxyviridae"
----
-smallpox virus
-

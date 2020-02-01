@@ -1,5 +1,0 @@
----
-title: "Polyp Syndromes"
----
-...
-

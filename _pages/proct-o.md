@@ -1,5 +1,0 @@
----
-title: "Proct/o"
----
-rectum
-

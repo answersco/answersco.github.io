@@ -1,5 +1,0 @@
----
-title: "Orthomyxoviridae"
----
-influenza
-

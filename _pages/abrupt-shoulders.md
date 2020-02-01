@@ -1,5 +1,0 @@
----
-title: "Abrupt shoulders"
----
-cancer
-

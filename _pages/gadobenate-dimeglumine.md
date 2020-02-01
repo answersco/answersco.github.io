@@ -1,5 +1,0 @@
----
-title: "Gadobenate Dimeglumine?"
----
-MultiHance
-

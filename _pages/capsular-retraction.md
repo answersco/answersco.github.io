@@ -1,5 +1,0 @@
----
-title: "Capsular retraction"
----
-cholangiocarcinoma
-

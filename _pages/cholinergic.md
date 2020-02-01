@@ -1,5 +1,0 @@
----
-title: "Cholinergic"
----
-is parasympathetic
-

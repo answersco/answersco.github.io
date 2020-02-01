@@ -1,5 +1,0 @@
----
-title: "Lemierre"
----
-Fusobacterium necrophorum
-

@@ -1,5 +1,0 @@
----
-title: "LONG HEAD OF THE BICEPS   CORACOHUMERAL LIGAMENT  SUPERIOR GLENOHUMERAL LIGAMENT"
----
-these structures are in the ROTATOR interval
-

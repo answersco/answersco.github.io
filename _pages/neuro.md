@@ -1,7 +1,0 @@
----
-title: "Neuro"
----
-neurofibroma placeholder
-
-...
-

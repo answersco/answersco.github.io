@@ -1,5 +1,0 @@
----
-title: "Inferior concha"
----
-D
-

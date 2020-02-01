@@ -1,5 +1,0 @@
----
-title: "Thallium negative"
----
-PCP
-

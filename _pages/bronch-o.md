@@ -1,5 +1,0 @@
----
-title: "Bronch/o"
----
-bronchus
-

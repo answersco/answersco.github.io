@@ -1,5 +1,0 @@
----
-title: "Severe splenomegaly?"
----
-Myelofibrosis
-

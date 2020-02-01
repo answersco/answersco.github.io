@@ -1,5 +1,0 @@
----
-title: "BM"
----
-bowel movement
-

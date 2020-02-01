@@ -1,5 +1,0 @@
----
-title: "Adjourning"
----
-team disbands
-

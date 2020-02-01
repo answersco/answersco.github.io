@@ -1,5 +1,0 @@
----
-title: "LA"
----
-long acting
-

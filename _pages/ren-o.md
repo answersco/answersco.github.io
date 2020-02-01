@@ -1,5 +1,0 @@
----
-title: "Ren/o"
----
-kidney
-

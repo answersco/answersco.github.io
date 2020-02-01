@@ -1,5 +1,0 @@
----
-title: "Neurotransmitters"
----
-chemical signals
-

@@ -1,5 +1,0 @@
----
-title: "Bx"
----
-biopsy
-

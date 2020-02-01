@@ -1,5 +1,0 @@
----
-title: "Replaced bronchus"
----
-Dx?
-

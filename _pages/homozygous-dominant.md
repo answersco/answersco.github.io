@@ -1,5 +1,0 @@
----
-title: "Homozygous dominant"
----
-DD
-

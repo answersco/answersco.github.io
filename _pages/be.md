@@ -1,5 +1,0 @@
----
-title: "BE"
----
-barium enema
-

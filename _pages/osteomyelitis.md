@@ -1,5 +1,0 @@
----
-title: "Osteomyelitis"
----
-See image
-

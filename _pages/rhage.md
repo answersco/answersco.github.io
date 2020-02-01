@@ -1,5 +1,0 @@
----
-title: "-rhage"
----
-bursting forth
-

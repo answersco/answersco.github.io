@@ -50,7 +50,7 @@ defaults:
     values:
       permalink: /:basename/
 
-include: ['_pages']
+exclude: ['_pages']
 permalink: /:title/
 
 compress_html:

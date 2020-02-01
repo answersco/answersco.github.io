@@ -1,5 +1,0 @@
----
-title: "Central Asia"
----
-Region
-

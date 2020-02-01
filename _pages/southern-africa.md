@@ -1,5 +1,0 @@
----
-title: "Southern Africa"
----
-Region
-

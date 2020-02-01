@@ -1,5 +1,0 @@
----
-title: "Localization/Accuracy"
----
-Daily
-

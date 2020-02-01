@@ -1,5 +1,0 @@
----
-title: "South Asia"
----
-Region
-

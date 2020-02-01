@@ -1,5 +1,0 @@
----
-title: "Stomach cancer"
----
-Endoscopy
-

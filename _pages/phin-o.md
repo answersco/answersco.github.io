@@ -1,5 +1,0 @@
----
-title: "Phin/o"
----
-nose
-

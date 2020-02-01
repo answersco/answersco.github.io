@@ -1,5 +1,0 @@
----
-title: "Europe"
----
-Region
-

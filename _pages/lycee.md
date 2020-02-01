@@ -1,5 +1,0 @@
----
-title: "Lycee"
----
-public schools
-

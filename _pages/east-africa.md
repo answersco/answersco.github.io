@@ -1,5 +1,0 @@
----
-title: "East Africa"
----
-Region
-

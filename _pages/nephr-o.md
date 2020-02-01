@@ -1,5 +1,0 @@
----
-title: "Nephr/o"
----
-kidney
-

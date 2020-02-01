@@ -1,5 +1,0 @@
----
-title: "Cholecyst"
----
-gallbladder
-

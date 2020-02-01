@@ -1,5 +1,0 @@
----
-title: "Treadmill- adrenergic"
----
-dobutamine
-

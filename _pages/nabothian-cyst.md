@@ -1,5 +1,0 @@
----
-title: "Nabothian cyst"
----
-cervical
-

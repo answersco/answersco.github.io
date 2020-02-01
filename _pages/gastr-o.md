@@ -1,5 +1,0 @@
----
-title: "Gastr/o"
----
-stomach
-

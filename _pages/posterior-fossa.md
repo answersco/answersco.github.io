@@ -1,5 +1,0 @@
----
-title: "Posterior fossa"
----
-...
-

@@ -1,5 +1,0 @@
----
-title: "Tachy-"
----
-fast
-

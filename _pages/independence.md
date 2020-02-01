@@ -1,5 +1,0 @@
----
-title: "Independence"
----
-Autonomy
-

@@ -1,5 +1,0 @@
----
-title: "Thrombus"
----
-a clot
-

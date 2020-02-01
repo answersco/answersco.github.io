@@ -1,5 +1,0 @@
----
-title: "Pulmonary LCH"
----
-Dx?
-

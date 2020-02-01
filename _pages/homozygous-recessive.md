@@ -1,5 +1,0 @@
----
-title: "Homozygous recessive"
----
-dd
-
