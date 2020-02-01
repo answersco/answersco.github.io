@@ -1,0 +1,9 @@
+---
+title: "All Pages"
+permalink: /all-pages/
+---
+<ul>
+  {% for post in site.html_pages %}
+    <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endfor %}
+</ul>
