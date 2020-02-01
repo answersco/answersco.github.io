@@ -1,0 +1,5 @@
+---
+title: "Mor (morit)"
+---
+Death
+

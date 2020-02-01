@@ -1,0 +1,5 @@
+---
+title: "264 ounces"
+---
+Each cup contains 8 ounces. How many ounces are in 33 cups?
+

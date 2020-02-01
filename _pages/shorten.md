@@ -1,0 +1,5 @@
+---
+title: "Shorten"
+---
+abridge; abbreviate
+

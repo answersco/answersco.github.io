@@ -1,0 +1,5 @@
+---
+title: "Epicure"
+---
+gourmet, hedonist
+

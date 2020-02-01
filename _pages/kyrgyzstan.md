@@ -1,0 +1,5 @@
+---
+title: "Kyrgyzstan"
+---
+Bishkek
+

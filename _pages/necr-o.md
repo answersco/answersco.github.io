@@ -1,0 +1,5 @@
+---
+title: "Necr/o"
+---
+death
+

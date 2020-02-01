@@ -1,0 +1,5 @@
+---
+title: "RETICULATION  HONEYCOMBING  SUBPLEURAL/BASILAR PREDOMINANCE"
+---
+What three findings have a PPV of 90-100% for UIP?
+

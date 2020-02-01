@@ -1,0 +1,5 @@
+---
+title: "Bloody"
+---
+sanguine; sanguinary
+

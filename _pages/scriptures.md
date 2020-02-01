@@ -1,0 +1,5 @@
+---
+title: "Scriptures"
+---
+sacred writings
+

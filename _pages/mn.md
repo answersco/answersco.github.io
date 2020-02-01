@@ -1,0 +1,5 @@
+---
+title: "Mn"
+---
+Manganese
+

@@ -1,0 +1,5 @@
+---
+title: "Dangerous"
+---
+safe
+

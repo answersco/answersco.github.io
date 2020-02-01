@@ -1,0 +1,5 @@
+---
+title: "Lighten"
+---
+relieve; alleviate
+

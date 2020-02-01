@@ -1,0 +1,5 @@
+---
+title: "Washed"
+---
+wash
+

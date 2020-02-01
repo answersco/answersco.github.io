@@ -1,0 +1,5 @@
+---
+title: "Pathetic"
+---
+arousing pity
+

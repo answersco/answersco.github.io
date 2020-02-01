@@ -1,0 +1,5 @@
+---
+title: "Rupt"
+---
+Break, burst
+

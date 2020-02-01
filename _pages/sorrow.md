@@ -1,0 +1,5 @@
+---
+title: "Sorrow"
+---
+contrition; remorse
+

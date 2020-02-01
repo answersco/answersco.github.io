@@ -1,0 +1,5 @@
+---
+title: "Trich/o"
+---
+hair
+

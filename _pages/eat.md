@@ -1,0 +1,5 @@
+---
+title: "Eat"
+---
+devour; consume
+

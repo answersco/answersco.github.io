@@ -1,0 +1,5 @@
+---
+title: "Omniscient"
+---
+all-knowing
+

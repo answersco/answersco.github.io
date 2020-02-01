@@ -1,0 +1,7 @@
+---
+title: "Curse"
+---
+execration
+
+execrate
+

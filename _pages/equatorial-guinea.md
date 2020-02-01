@@ -1,0 +1,5 @@
+---
+title: "Equatorial Guinea"
+---
+Malabo
+

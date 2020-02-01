@@ -1,0 +1,5 @@
+---
+title: "Yield"
+---
+capitulate; succumb
+

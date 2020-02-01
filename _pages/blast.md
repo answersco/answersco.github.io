@@ -1,0 +1,5 @@
+---
+title: "Blast"
+---
+Large explosion
+

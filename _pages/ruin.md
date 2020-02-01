@@ -1,0 +1,5 @@
+---
+title: "Ruin"
+---
+destroy
+

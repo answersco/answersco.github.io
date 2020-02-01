@@ -1,0 +1,5 @@
+---
+title: "Optimistic"
+---
+Hopeful, cheerful
+

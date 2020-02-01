@@ -1,0 +1,5 @@
+---
+title: "Kr"
+---
+Krypton
+

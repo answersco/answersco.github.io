@@ -1,0 +1,5 @@
+---
+title: "Noisy"
+---
+quiet
+

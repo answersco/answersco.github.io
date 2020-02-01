@@ -1,0 +1,5 @@
+---
+title: "Natural"
+---
+Artificial
+

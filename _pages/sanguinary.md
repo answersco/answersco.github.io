@@ -1,0 +1,5 @@
+---
+title: "Sanguinary"
+---
+bloodthirsty; murderous
+

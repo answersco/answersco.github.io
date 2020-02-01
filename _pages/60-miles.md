@@ -1,0 +1,5 @@
+---
+title: "60 miles"
+---
+Brian's car gets 20 miles per gallon. On his last trip, he used 3 gallons of gas. How many miles did he travel on his last trip?
+

@@ -1,0 +1,5 @@
+---
+title: "16 miles"
+---
+I walked 2 miles in 1 hour for Relay for Life. If I maintained this pace for the 8 hours I walk, how many miles total will I walk?
+

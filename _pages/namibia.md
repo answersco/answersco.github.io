@@ -1,0 +1,5 @@
+---
+title: "Namibia"
+---
+Windhoek
+

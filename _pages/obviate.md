@@ -1,0 +1,5 @@
+---
+title: "Obviate"
+---
+anticipate, avert
+

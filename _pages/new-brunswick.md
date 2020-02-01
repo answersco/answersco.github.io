@@ -1,0 +1,5 @@
+---
+title: "New Brunswick"
+---
+Fredericton
+

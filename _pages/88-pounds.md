@@ -1,0 +1,5 @@
+---
+title: "88 pounds"
+---
+I have a pet golden retriever. Each year he gains 11 pounds. He is 8 years old. How many pounds does he weigh?
+

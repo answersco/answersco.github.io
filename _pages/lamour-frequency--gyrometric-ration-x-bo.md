@@ -1,0 +1,5 @@
+---
+title: "Lamour frequency= gyrometric ration x Bo  Pixel = FOV/matrix  Slice thickness= RF bandwidth/slice selection gradient strength  (narrow bandwidth = thinner slices = more image time but better spatial resolution and less noise so increase in SNR)  (fatter/wider bandwidth = thicker slices = lets in more noise= snr goes down but imaging time is decreased and artifacts like chemical shift and susceptibility are improved)  Voxel = slice thickness <b> (FOV/matrix-p </b> FOV/matrix-f)  SNR Depends on the same formula as above where the larger the voxel the better the signal. -additional parameters include: -using surface coils-&gt;increase signal -increased number of excitations -&gt; collect more signal -higher main magnetic field   SAR depends on: -larger flip angle-&gt;more energy  Exam time = TR x number excitations x number phase encoding steps    &quot;PET's take a lot of your time-&gt;exam duration formula&quot;  Its the gradient changes which cause stimulation of peripheral nerves  The main magnetic field causes dizziness sometimes if you move too fast within it."
+---
+formulas to know for MRI
+

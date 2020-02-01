@@ -1,0 +1,5 @@
+---
+title: "Ga"
+---
+Gallium
+

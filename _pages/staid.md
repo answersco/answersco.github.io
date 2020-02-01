@@ -1,0 +1,5 @@
+---
+title: "Staid"
+---
+sedate; serious
+

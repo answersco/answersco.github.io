@@ -1,0 +1,5 @@
+---
+title: "46 cups"
+---
+A chocolate chip cookie recipe calls for 2 cups of chocolate chips. You want to make 23 recipes for a bake sale. How many cups of chocolate chips will be needed to make all the cookie recipes?
+

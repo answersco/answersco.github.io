@@ -1,0 +1,5 @@
+---
+title: "-ectomy"
+---
+excision
+

@@ -1,0 +1,5 @@
+---
+title: "Shack"
+---
+hut
+

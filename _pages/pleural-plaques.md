@@ -1,0 +1,5 @@
+---
+title: "Pleural plaques"
+---
+asbestosis
+

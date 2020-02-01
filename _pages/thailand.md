@@ -1,0 +1,5 @@
+---
+title: "Thailand"
+---
+Bangkok
+

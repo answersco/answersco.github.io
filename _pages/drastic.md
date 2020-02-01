@@ -1,0 +1,5 @@
+---
+title: "Drastic"
+---
+vigorous, extreme
+

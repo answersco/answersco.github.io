@@ -1,0 +1,5 @@
+---
+title: "Think"
+---
+cogitate; ratiocinate
+

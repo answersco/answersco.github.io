@@ -1,0 +1,5 @@
+---
+title: "Fid"
+---
+Faith, trust
+

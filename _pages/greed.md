@@ -1,0 +1,5 @@
+---
+title: "Greed"
+---
+avarice
+

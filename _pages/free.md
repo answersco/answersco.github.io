@@ -1,0 +1,5 @@
+---
+title: "Free"
+---
+emancipate; liberate
+

@@ -1,0 +1,5 @@
+---
+title: "Rug"
+---
+carpet
+

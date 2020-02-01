@@ -1,0 +1,5 @@
+---
+title: "IT IS WHERE THE CONTRAST IN THE URINE ESCAPES FROM THE NECROTIZED TUBULES INTO THE INTERISTITIUM CREATING THE PERSISTENT NEPHROGRAM"
+---
+what causes the persistent nephrogram in acute tubular necrosis?
+

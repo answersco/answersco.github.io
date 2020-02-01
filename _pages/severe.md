@@ -1,0 +1,5 @@
+---
+title: "Severe"
+---
+Mild
+

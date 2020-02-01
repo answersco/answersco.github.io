@@ -1,0 +1,5 @@
+---
+title: "Restrained"
+---
+Controlled, restricted
+

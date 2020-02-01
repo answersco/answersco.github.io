@@ -1,0 +1,5 @@
+---
+title: "Comprehend"
+---
+to understand
+

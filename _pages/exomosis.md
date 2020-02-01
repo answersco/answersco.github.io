@@ -1,0 +1,5 @@
+---
+title: "Exomosis"
+---
+osmosis outward
+

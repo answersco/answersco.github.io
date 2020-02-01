@@ -1,0 +1,5 @@
+---
+title: "Kid"
+---
+child
+

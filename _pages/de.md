@@ -1,0 +1,6 @@
+---
+title: "De"
+---
+opposite
+(defrost)
+

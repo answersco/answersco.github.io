@@ -1,0 +1,5 @@
+---
+title: "Plethora"
+---
+excess, inflation
+

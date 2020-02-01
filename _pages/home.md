@@ -1,0 +1,5 @@
+---
+title: "Home"
+---
+domicile; residence
+

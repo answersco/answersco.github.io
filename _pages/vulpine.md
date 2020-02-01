@@ -1,0 +1,5 @@
+---
+title: "Vulpine"
+---
+cunning; crafty
+

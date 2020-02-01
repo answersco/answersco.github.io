@@ -1,0 +1,5 @@
+---
+title: "Strong"
+---
+weak
+

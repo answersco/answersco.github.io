@@ -1,0 +1,5 @@
+---
+title: "Awe"
+---
+Solemn wonder
+

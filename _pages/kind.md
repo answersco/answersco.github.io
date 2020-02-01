@@ -1,0 +1,5 @@
+---
+title: "Kind"
+---
+mean
+

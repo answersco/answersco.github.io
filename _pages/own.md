@@ -1,0 +1,5 @@
+---
+title: "Own"
+---
+possess
+

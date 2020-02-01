@@ -1,0 +1,5 @@
+---
+title: "Burkina Faso"
+---
+Ouagadougou
+

@@ -1,0 +1,5 @@
+---
+title: "Deny"
+---
+Admit
+

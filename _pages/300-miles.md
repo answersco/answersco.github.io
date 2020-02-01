@@ -1,0 +1,5 @@
+---
+title: "300 miles"
+---
+Sue's family went on vacation. Her mom drove the car at 60 mph. They camped at a campground after traveling for 5 hours. How far was the campground from their home?
+

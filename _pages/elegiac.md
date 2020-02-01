@@ -1,0 +1,5 @@
+---
+title: "Elegiac"
+---
+sorrowful, lamenting
+

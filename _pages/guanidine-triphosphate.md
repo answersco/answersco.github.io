@@ -1,0 +1,5 @@
+---
+title: "Guanidine triphosphate"
+---
+GTP
+

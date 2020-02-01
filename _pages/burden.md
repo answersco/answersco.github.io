@@ -1,0 +1,5 @@
+---
+title: "Burden"
+---
+obligation; malediction
+

@@ -1,0 +1,5 @@
+---
+title: "Endosmosis"
+---
+osmosis inward
+

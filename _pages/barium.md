@@ -1,0 +1,5 @@
+---
+title: "Barium"
+---
+Ba2+
+

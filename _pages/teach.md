@@ -1,0 +1,5 @@
+---
+title: "Teach"
+---
+to instruct
+

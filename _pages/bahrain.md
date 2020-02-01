@@ -1,0 +1,5 @@
+---
+title: "Bahrain"
+---
+Manama
+

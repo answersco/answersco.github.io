@@ -1,0 +1,5 @@
+---
+title: "Rush"
+---
+hurry
+

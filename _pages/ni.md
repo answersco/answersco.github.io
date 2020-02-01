@@ -1,0 +1,5 @@
+---
+title: "Ni"
+---
+Nickel
+

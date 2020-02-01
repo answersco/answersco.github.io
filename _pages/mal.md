@@ -1,0 +1,5 @@
+---
+title: "Mal-"
+---
+bad, poor
+

@@ -1,0 +1,6 @@
+---
+title: "Mid"
+---
+middle
+(midway)
+

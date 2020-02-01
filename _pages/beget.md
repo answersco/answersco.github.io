@@ -1,0 +1,5 @@
+---
+title: "Beget"
+---
+procreate; generate
+

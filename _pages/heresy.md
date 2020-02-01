@@ -1,0 +1,5 @@
+---
+title: "Heresy"
+---
+heterodoxy, nonconformity
+

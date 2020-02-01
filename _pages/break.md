@@ -1,0 +1,5 @@
+---
+title: "Break"
+---
+disintegrate; invalidate
+

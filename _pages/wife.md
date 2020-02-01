@@ -1,0 +1,5 @@
+---
+title: "Wife"
+---
+wives
+

@@ -1,0 +1,5 @@
+---
+title: "Lenin"
+---
+Russian founder of the Bolsheviks and leader of the Russian Revolution and first head of the USSR (1870-1924).
+

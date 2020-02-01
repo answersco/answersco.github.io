@@ -1,0 +1,5 @@
+---
+title: "Complicate"
+---
+Simplify
+

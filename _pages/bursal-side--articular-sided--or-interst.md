@@ -1,0 +1,5 @@
+---
+title: "BURSAL SIDE, ARTICULAR SIDED, OR INTERSTITIAL    AND THEN IT SHOULD BE GRADED AS LOW GRADE (&lt; 3 MM), INTERMEDIATE (3 - 6 MM), OR HIGH GRADE (&gt; 6 MM OR 50% OF THE THICKNESS)"
+---
+how are partial thickness tears classified?
+

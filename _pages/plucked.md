@@ -1,0 +1,5 @@
+---
+title: "Plucked"
+---
+pulled out
+

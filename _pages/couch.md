@@ -1,0 +1,5 @@
+---
+title: "Couch"
+---
+sofa
+

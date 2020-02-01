@@ -1,0 +1,5 @@
+---
+title: "Credence"
+---
+credit, faith
+

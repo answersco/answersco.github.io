@@ -1,0 +1,5 @@
+---
+title: "Vor"
+---
+Eat greedily
+
